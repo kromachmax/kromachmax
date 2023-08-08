@@ -2,6 +2,7 @@
 </h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kromachmax/)](https://github.com/kromachmax/) 
+[![TG](https://img.shields.io/badge/telegram-blue?style=white&logo=Telegram&logoColor=white)](https://t.me/maxonicc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kromachmax2003@gmail.com)](mailto:kromachmax2003@gmail.com)
 [![VK](https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=blue&logo=VK&logoColor=white
 )](https://vk.com/nistov)
@@ -20,7 +21,7 @@
 
 <img width="470" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  Я получаю удовольствие от работы и учебы
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  получаю удовольствие от работы и учебы
 
 
 - 🔭 работа над многими проектами
