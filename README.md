@@ -1,14 +1,14 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">Всем привет!, Меня зовут <a href="https://github.com/Defcon27">Максим</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### 📬 Find me at
+### 📬 Немного обо мне
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kromachmax2003@gmail.com)](mailto:kromachmax2003@gmail.com)
+[![](https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=blue&logo=VK&logoColor=white
+)](https://vk.com/nistov)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Я **студент-старшекурсник🎓** Я **технический энтузиаст, 💻 😃** увлеченный изучением новых технологий и работой с ними. Мне нравится создавать интересные и потрясающие продукты, которые служат многим целям. <br/><br/>
+Я **студент-старшекурсник🎓** Я **технический энтузиаст, 💻 ** увлеченный изучением новых технологий и работой с ними. Мне нравится создавать интересные и потрясающие продукты, которые служат многим целям. <br/><br/>
 
 
 
@@ -16,7 +16,7 @@
 ## ⚡️ Несколько кратких фактов
 
 
-- 📊Обучениние в одном из лучших вузов страны
+- 🏫Обучениние в одном из лучших вузов страны
 - 🌱 В настоящее время я изучаю С++ ☕
 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
@@ -30,6 +30,7 @@
 - 🤖 Робототехника
 - 📝 написание БД
 - 📙 Ознакомьтесь с моим [резюме](https://www.linkedin.com/in/hemanthkollipara /)
+- 🏋️‍♂️Занимаюсь спортом
 - 🎉 - Забавный факт: Я ❤️  танцы👯  и смотрю много документальных фильмов 🎬
 
   
