@@ -42,6 +42,7 @@
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 
-### 🚀 Quick Stats
+### 🚀 Leetcode statistics
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="450" align="left" src="https://leetcard.jacoblin.cool/maxonic">
+</p>
