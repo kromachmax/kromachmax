@@ -33,15 +33,34 @@
 - 🏋️‍♂️Занимаюсь спортом
 - 🎉 - Забавный факт: Я ❤️  танцы👯  и смотрю много документальных фильмов 🎬
 
-  
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+  ### 👨‍💻 Языки программирования и разметки
+  <p align="center">
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-black.svg?logo=cpp"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-black.svg?logo=c-in-hexagon&l"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-black.svg?logo=database"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-black.svg?logo=css3"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-black.svg?logo=html5"></a>
+  </p>
 
-### ⚙️ Некоторые инструменты и технологии, которые я использую
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+---
 
+### 🛠 Инструменты:
+
+  <p align="center">
+      <a href="#"><img alt="VS" src="https://img.shields.io/badge/Visual_Studio-black?logo=VisualStudio&logoColor=purple"></a>
+      <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt_Creator-black?logo=Qt"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=blue"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+      <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?logo=ubuntu"></a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/boost-black?logo=boost">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tgbot--cpp-black?logo=Telegram">
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-black?logo=stack-overflow"></a>
+      </br>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-black?logo=sqlite"></a>
+  </p>
 
 ### 🚀 Leetcode statistics
 <p align="center">
